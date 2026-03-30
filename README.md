@@ -1,4 +1,4 @@
-# Car Dealership Web Application
+# fullstack_developer_capstone
 
 ## Description
 This is a full-stack web application developed as part of a capstone project. The application allows users to view car dealerships, read and post reviews, and perform sentiment analysis.
